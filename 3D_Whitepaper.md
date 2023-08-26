@@ -24,4 +24,4 @@ Real-Time ApplicaƟons:
 ![finalimage1](https://github.com/aspgayathri/Technical-Writing/assets/143250817/55f4796f-afe6-48d6-bf8a-adee2f7cbed7)
 
 > Immunotherapy harnesses the body's immune system to fight diseases, especially cancer.
-```It enhances the immune response against abnormal cells, potenƟally leading to their destrucƟon.
+```Quote
