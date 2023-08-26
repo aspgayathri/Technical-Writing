@@ -17,7 +17,7 @@ Our goal is to offer a glimpse into the future by looking at emerging technologi
 
 ### 2.	Biotechnology Breakthroughs in Disease Treatment
 The landscape of disease treatment has undergone a profound transformation through biotechnology breakthroughs. These advancements encompass a spectrum of remarkable interventions such as:
-- **Gene Editing Technologies**
+#### **2.1 Gene Editing Technologies**
 
 Gene editing technologies are powerful tools that allow scientists to make precise changes to the DNA within living organisms. These changes can involve adding, removing, or modifying specific parts of the genetic code. Gene editing opens new possibilities for understanding genetics, developing treatments for diseases, and even improving crops and animals.
 
@@ -34,5 +34,15 @@ Gene editing technologies are powerful tools that allow scientists to make preci
 
 Source: [CRISPR-Cas9](https://doi.org/10.1038/s41392-019-0089-y)
 
-- **Designer Drugs and Personalized Medicine**
+#### **2.2 Designer Drugs and Personalized Medicine**
+
+- **Designer Drugs**
+  Designer drugs are precisely crafted medications that target specific molecules in the body. They aim to provide focused therapeutic effects with minimal side effects. 
+  + **Gleevec (Imatinib):** Developed to treat chronic myeloid leukemia and certain types of gastrointestinal stromal tumors, Gleevec targets specific proteins that promote cancer cell growth.
+  + **Erlotinib (Tarceva):** Used for treating non-small cell lung cancer, Erlotinib targets the epidermal growth factor receptor (EGFR) that is often overactive in cancer cells.
+   
+- **Personalized Medicine**
+Personalized medicine tailors treatments based on an individual's genetics, environment, and lifestyle. It ensures that medical interventions are uniquely suited to each person, optimizing effectiveness and safety. Examples include:
+   + **Nutrigenomics:** Using genetic information to customize dietary recommendations based on an individual's genetic predispositions. This approach aims to optimize health outcomes and manage conditions like obesity or diabetes.
+   + **Pharmacogenomics:** Tailoring drug treatments based on an individual's genetic makeup to optimize effectiveness and minimize adverse reactions. For instance, testing genetic variants can guide dosages for drugs like warfarin.
 
