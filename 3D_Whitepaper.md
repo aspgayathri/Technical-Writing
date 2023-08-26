@@ -27,5 +27,5 @@ oversight are discussed.[^1] The ***future*** outlook includes __*AI integraƟon
 ![finalimage1](https://github.com/aspgayathri/Technical-Writing/assets/143250817/55f4796f-afe6-48d6-bf8a-adee2f7cbed7)
 
 > Immunotherapy harnesses the body's immune system to fight diseases, especially cancer.
-```Quote
+```Quote```
 
