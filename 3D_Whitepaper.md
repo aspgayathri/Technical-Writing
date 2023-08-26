@@ -25,3 +25,6 @@ Real-Time ApplicaƟons:
 
 > Immunotherapy harnesses the body's immune system to fight diseases, especially cancer.
 ```Quote
+
+Here is a sample foot note [^1]
+[^1] This is my foot note
