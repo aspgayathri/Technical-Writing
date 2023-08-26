@@ -35,3 +35,7 @@ oversight are discussed.[^1] The ***future*** outlook includes __*AI integraƟon
 - [ ] task 2
 - [ ] task 3
 - [ ] task 4
+
+| Title | Description |
+| ----- | ------ |
+| Heading | Title |
