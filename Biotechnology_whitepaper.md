@@ -23,12 +23,16 @@ Gene editing technologies are powerful tools that allow scientists to make preci
 
 | Gene Editing Technology | Description | Example Applications |
 | ----------------------- | ------------ |--------------------- |
-| CRISPR-Cas9 | Uses RNA-guided endonuclease Cas9 to introduce targeted double-strand breaks, leading to gene modifications when repaired | Correcting genetic mutations, creating knockout organisms |
-| TALEN (Transcription Activator-Like Effector Nucleases) | Utilizes custom-designed DNA-binding proteins to introduce double-strand breaks | Engineering plant traits, modifying immune cells for therapy |
-| ZFNs (Zinc Finger Nucleases) | Uses engineered zinc finger proteins to create targeted DNA breaks | Gene therapy, genome editing in model organisms |
+| **CRISPR-Cas9** | Uses RNA-guided endonuclease Cas9 to introduce targeted double-strand breaks, leading to gene modifications when repaired | Correcting genetic mutations, creating knockout organisms |
+| **TALEN (Transcription Activator-Like Effector Nucleases)** | Utilizes custom-designed DNA-binding proteins to introduce double-strand breaks | Engineering plant traits, modifying immune cells for therapy |
+| **ZFNs (Zinc Finger Nucleases)** | Uses engineered zinc finger proteins to create targeted DNA breaks | Gene therapy, genome editing in model organisms |
+
+> These technologies have already shown promising results in the field of disease treatment.
 
 
+![finalimage2](https://github.com/aspgayathri/Technical-Writing/assets/143250817/7b519429-cd82-4c4e-adea-91ec95f72520)
 
+Source: [CRISPR-Cas9](https://doi.org/10.1038/s41392-019-0089-y)
 
-
+- **Designer Drugs and Personalized Medicine**
 
