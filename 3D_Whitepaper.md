@@ -22,3 +22,5 @@ Real-Time ApplicaƟons:
 [Click Here](https://developers.facebook.com/docs/graph-api/batch-requests)
 
 ![finalimage1](https://github.com/aspgayathri/Technical-Writing/assets/143250817/55f4796f-afe6-48d6-bf8a-adee2f7cbed7)
+
+> Immunotherapy harnesses the body's immune system to fight diseases, especially cancer.
