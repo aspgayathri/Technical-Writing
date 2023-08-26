@@ -8,6 +8,9 @@
 _This white paper_ explores biotechnology's breakthroughs in disease treatment, addressing ethics and future potenƟal. It covers gene ediƟng, designer drugs, monoclonal anƟbodies, RNA-based therapies, and regeneraƟve medicine. **Ethical** consideraƟons include geneƟc __modificaƟon__, privacy, equity, and dual-use concerns. *Regulatory* frameworks, patents, and 
 oversight are discussed. The ***future*** outlook includes __*AI integraƟon*__, **_3D bioprinƟng_**, and collaboraƟon. Challenges like precision, access, ethics, and awareness are considered. In summary, the paper underscores biotechnology's transformaƟve role in disease treatment and the importance of balanced progress. 
 
+Here is a sample foot note [^1]
+[^1] This is my foot note
+
 Real-Time ApplicaƟons:
 1. Sickle Cell Disease: TALENs have been used to edit the HBB gene in paƟents with sickle cell disease, aiming to correct the geneƟc mutaƟon responsible for the disorder and restore normal hemoglobin producƟon.
 2. Leukemia and lymphoma: TALENs have been used to modify immune cells called T cells in CAR-T cell therapy. T cells are engineered to target and destroy cancer cells in paƟents with certain types of leukemia and lymphoma.
@@ -26,5 +29,3 @@ Real-Time ApplicaƟons:
 > Immunotherapy harnesses the body's immune system to fight diseases, especially cancer.
 ```Quote
 
-Here is a sample foot note [^1]
-[^1] This is my foot note
