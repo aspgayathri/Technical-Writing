@@ -31,7 +31,7 @@ oversight are discussed.[^1] The ***future*** outlook includes __*AI integraƟon
 ```Quote```
 ===Quote===
 
--[x] task 1
--[] task 2
--[] task 3
--[] task 4
+- [x] task 1
+- [ ] task 2
+- [ ] task 3
+- [ ] task 4
