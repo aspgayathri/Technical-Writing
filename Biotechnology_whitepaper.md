@@ -46,3 +46,10 @@ Personalized medicine tailors treatments based on an individual's genetics, envi
    + **Nutrigenomics:** Using genetic information to customize dietary recommendations based on an individual's genetic predispositions. This approach aims to optimize health outcomes and manage conditions like obesity or diabetes.
    + **Pharmacogenomics:** Tailoring drug treatments based on an individual's genetic makeup to optimize effectiveness and minimize adverse reactions. For instance, testing genetic variants can guide dosages for drugs like warfarin.
 
+#### **2.3 Monoclonal Antibody Therapies and Immunotherapy**
+
+Monoclonal antibody therapies involve using engineered antibodies to target specific molecules in the body. These therapies are designed to treat various conditions by modulating specific immune responses. Examples include:
+
+-[]Rituximab
+-[]
+-[]
