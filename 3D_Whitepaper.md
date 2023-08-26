@@ -6,7 +6,7 @@
 ###### BIOTECHNOLOGY ADVANCEMENTS IN DISEASE TREATMENTS
 --------------------------------------------------------
 _This white paper_ explores biotechnology's breakthroughs in disease treatment, addressing ethics and future potenƟal. It covers gene ediƟng, designer drugs, monoclonal anƟbodies, RNA-based therapies, and regeneraƟve medicine. **Ethical** consideraƟons include geneƟc __modificaƟon__, privacy, equity, and dual-use concerns. *Regulatory* frameworks, patents, and 
-oversight are discussed.[^1] The ***future*** outlook includes __*AI integraƟon*__, **_3D bioprinƟng_**, and collaboraƟon. Challenges like precision, access, ethics, and awareness are considered. In summary, the paper underscores biotechnology's transformaƟve role in disease treatment and the importance of balanced progress. 
+oversight are discussed.[^1] The ***future*** outlook includes __*AI integraƟon*__, **_3D bioprinƟng_**, and collaboraƟon. Challenges like ==precision==, access, ethics, and awareness are considered. In summary, the paper underscores biotechnology's transformaƟve role in disease treatment and the importance of balanced progress. 
 
 
 [^1]:This is my foot note
@@ -41,3 +41,4 @@ oversight are discussed.[^1] The ***future*** outlook includes __*AI integraƟon
 | Heading | Title |
 
 😂
+
