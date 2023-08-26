@@ -40,4 +40,4 @@ oversight are discussed.[^1] The ***future*** outlook includes __*AI integraƟon
 | ----- | ------ |
 | Heading | Title |
 
-:Joy:
+😂
