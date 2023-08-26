@@ -11,7 +11,7 @@ oversight are discussed.[^1] The ***future*** outlook includes __*AI integraƟon
 
 [^1]:This is my foot note
 
-==Real Time Applications==:
+<Real Time Applications>:
 1. Sickle Cell Disease: TALENs have been used to edit the HBB gene in paƟents with sickle cell disease, aiming to correct the geneƟc mutaƟon responsible for the disorder and restore normal hemoglobin producƟon.
 2. Leukemia and lymphoma: TALENs have been used to modify immune cells called T cells in CAR-T cell therapy. T cells are engineered to target and destroy cancer cells in paƟents with certain types of leukemia and lymphoma.
 3. CysƟc fibrosis: TALENs are ~~being used to~~~ correct geneƟc mutaƟons in cysƟc fibrosis paƟents' lung cells. By fixing the defecƟve gene, researchers hope to develop treatments that address the underlying cause of the disease.
